@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samebg
-- 👀 I’m interested in English Football, Basketball, Anime, and Mr.Gym
+- 👀 I’m interested in English Football, Basketball, AI Engineering, Marvel/DC Movies and Mr.Gym
 - 🌱 I’m currently learning HTML and Python
 - 💞️ I’m looking to collaborate on anything that can build fundamentals
 - 📫 How to reach me samebg@outlook.com
